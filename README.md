@@ -27,5 +27,5 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/dynamodb-flask-crud.git
+   git clone https://github.com/Revanth-sabretooth-02/dynamodb-flask-crud.git
    cd dynamodb-flask-crud
