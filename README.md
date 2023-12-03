@@ -43,6 +43,4 @@ Dynamix is your all-in-one solution for building, managing, and deploying contai
 
 We welcome contributions to enhance Dynamix! Feel free to fork this repository, make changes, and submit pull requests.
 
-## License
 
-Dynamix is licensed under the [MIT License](LICENSE).
